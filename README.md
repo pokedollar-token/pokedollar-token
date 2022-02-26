@@ -17,7 +17,7 @@ Pokédollar runs on <strong>Binance Smart Chain</strong>, which is a popular blo
 ## Key Facts
 - Pokédollar runs on the Binance Smart Chain (BEP20)
 - Pokédollar is non-inflationary, meaning there is a fixed amount of Pokédollars in circulation that will never change.
-- The maximum supply of Pokédollars is 420 Trillion tokens (420.000.000.000.000), which are already in active circulation.
+- The maximum supply of Pokédollars is 42 Trillion tokens (42.000.000.000.000), which are already in active circulation.
 - Locked Liquidity inside our PancakeSwap Liquidity Pool.
 - Low transaction fees: only Binance Smart Chain transaction fees (usually a few cents) [+ 0.25% of each transaction on PancakeSwap]
 - No automatic burn or redistribution (reflection) features to keep transaction fees low.
