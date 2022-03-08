@@ -1,6 +1,12 @@
 # Pokédollar
 This repository contains the smart contract that defines the Pokédollar token on the Binance Smart Chain.
 
+## Contract Address
+
+<strong>0x6e20b4fef32473c36200d2572f539714d32d540b</strong>
+
+This is the one and only official Pokédollar contract address on the Binance Smart Chain (BSC). Only use this contract address if you aim to buy some Pokédollars on a decentralized exchange.
+
 ## What is Pokédollar?
 
 Pokédollar is a crypto token based on the well-known ingame currency of the Pokémon main game series. Now you can finally own and use Pokédollars in the real world.
