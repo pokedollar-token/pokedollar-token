@@ -5,7 +5,7 @@ This repository contains the smart contract that defines the Pokédollar token o
 
 <strong>0x6e20b4fef32473c36200d2572f539714d32d540b</strong>
 
-This is the one and only official Pokédollar contract address on the Binance Smart Chain (BSC). Only use this contract address if you aim to buy some Pokédollars on a decentralized exchange.
+This is the one and only official Pokédollar contract address on the Binance Smart Chain (BSC). Only use this contract address if you aim to buy some Pokédollars on a decentralized exchange. See [BSCScan](https://bscscan.com/address/0x6e20b4fef32473c36200d2572f539714d32d540b) for more information regarding the token.
 
 ## What is Pokédollar?
 
